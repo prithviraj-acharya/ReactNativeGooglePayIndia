@@ -1,7 +1,9 @@
 {
   "name": "ReactNativeGooglePayIndia",
-  "version": "0.0.1",
-  "private": true,
+  "version": "1.0.0",
+  "description": "A light weight and flexible package to integrate Google Pay India into your React Native Project. But alas! It is for Android only.",
+  "author": "Prithviraj Acharya acharya.prithvi09@gmail.com",
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
